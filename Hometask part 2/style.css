@@ -1,0 +1,16 @@
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.cities {
+    font-size: 20px;
+    list-style-type: square;
+    padding: 20px;
+    margin-left: 10px;
+}
+.list {
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 20px;
+}
